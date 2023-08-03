@@ -1,5 +1,10 @@
 # Fast as Fucc: ⌨️ A Fast-Paced Typing Game
 
+<p align="center">
+  <img alt="Landing page" src="./extras/landing.png" />
+</p>
+
+
 ### 💻 Installation:
 
 Fast as Fucc is built using Node.js, so make sure you have it installed on your machine. If you don't have it yet, don't worry! You can grab the latest version here. Once you have Node.js ready, run the following command to install and play:
